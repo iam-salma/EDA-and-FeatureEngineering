@@ -1,8 +1,8 @@
 # ✨ Data Science Playground 🚀
 
 Welcome to the **Data-Science** repository — your one-stop workspace to explore, clean, and engineer data like a pro!
-Whether you're solving real-world problems or practicing core ML concepts, this repo has you covered with a structured, hands-on approach to **EDA** 📊 and **Feature Engineering** 🧠.
-🔬 Welcome to the Data-Science repo — your go-to space to explore 🧪, clean 🧼, and engineer 🛠️ data. Practice real-world ML 🌍 with hands-on EDA  and feature engineering .
+Whether you're solving real-world problems or practicing core ML concepts,
+this repo has you covered with a structured, hands-on approach to **EDA** 📊 and **Feature Engineering** 🧠.
 
 ---
 
